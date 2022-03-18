@@ -1,6 +1,8 @@
 Rencana Perusahaan
 
 - Perusahaan start up
-- Perusahaan Kuliner
+  + web dev
+  + android dev
+  + ios dev
 - Punya kos kosan untuk nambah penghasilan ortu
 - apa ajalah
