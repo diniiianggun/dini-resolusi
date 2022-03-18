@@ -3,6 +3,6 @@ Rencana Perusahaan
 - Perusahaan start up
   + web dev
   + android dev
-  + ios dev
+- Perusahaan Kuliner
+  + warmindo
 - Punya kos kosan untuk nambah penghasilan ortu
-- apa ajalah
